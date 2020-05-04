@@ -1,4 +1,4 @@
-# Web Instagram Clone
+# Web Instagram Clone | Check out the live version [clicking here](https://competent-wozniak-cf9154.netlify.app/)
 
 ### :sound: This project was built based on the classes of the AcceleraDev React course made available by [CodeNation](https://codenation.dev/)
 
